@@ -6,7 +6,7 @@ html{
 
 .main-body{
     font-family: serif;
-    background-color:#14262d;
+    background-color:#0196d0;
     text-align: center;
     color:#e8e8e9;
     margin:0;
@@ -19,9 +19,9 @@ html{
   display:flex;
   justify-content: flex-start;
   align-items:center;
-width: 100%;
-padding:0px;
-margin: 0px;
+  width: 100%;
+  padding:0px;
+  margin: 0px;
 }
 
 .logo {
@@ -40,7 +40,7 @@ margin: 0px;
 
 .header-nav-list {
     display:flex;
-   align-items: center;
+    align-items: center;
     list-style:none;
     margin:0px;
     padding: 0;
